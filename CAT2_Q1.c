@@ -1,3 +1,8 @@
+*/
+name; morris kathurima
+reg no ; CT100/G/26260/25
+
+
 #include <stdio.h>
 
 int main() {
